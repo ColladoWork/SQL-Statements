@@ -4,7 +4,7 @@ improve with this lenguage.
 
 Ideas and comments are always welcome! 😄
 
-🗃️The repository is divided into the following parts:
+### The repository is divided into the following parts:
 
 📂01_Statements
   - Select
