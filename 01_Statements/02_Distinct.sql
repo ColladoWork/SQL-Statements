@@ -1,8 +1,9 @@
--- Negacion de un criterio
-SELECT * FROM estrellas WHERE NOT tipo_de_estrella = 'M';
+###################################
+## Seleccion de campos distintos ##
+###################################
 
--- Añadir varias sentencia de busqueda de cumplimiento obligatorio
-SELECT * FROM estrellas WHERE NOT tipo_de_estrella = 'M' AND planetas > 1;
+-- Distinct permite seleccionar aquellos campos que sean distintos en una tabla.
+SELECT DISTINCT * FROM estrellas;
 
--- Añadir varias sentencia de busqueda donde multiples opciones son validas
-SELECT * FROM estrellas WHERE NOT tipo_de_estrella = 'M' OR planetas > 1;
+-- Tiene mas logica usarlo con un campo de una tabla para filtrar cuantos tipos distintos hay para el mismo campo.
+SELECT DISTINCT tipo_de_estrella FROM estrellas;
