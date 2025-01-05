@@ -1,6 +1,8 @@
+/*
 ###################################
 ## Seleccion de campos distintos ##
 ###################################
+*/
 
 -- Distinct permite seleccionar aquellos campos que sean distintos en una tabla.
 SELECT DISTINCT * FROM estrellas;
