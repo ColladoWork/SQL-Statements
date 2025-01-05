@@ -1,5 +1,5 @@
 ## Additional information
-In necessary, here are the links for each operator covered.
+If necessary, here are the links for each operator covered.
 
 📌[Select](https://www.w3schools.com/sql/sql_select.asp)
 
