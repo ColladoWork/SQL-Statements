@@ -1,6 +1,8 @@
+/*
 ##############################
 ## Herramienta de seleccion ##
 ##############################
+*/
 
 -- 1) Seleccionar todos los elementos de una tabla
 SELECT * FROM ag_espaciales;
