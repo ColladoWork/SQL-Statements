@@ -16,6 +16,13 @@ Ideas and comments are always welcome! 😄
   - Limit
 
 📂02_Statements
+  - Null
+  - Min / Max
+  - Count
+  - Sum
+  - Avg
+  - In
+  - Between
 
 
 ## Help 🔎 
